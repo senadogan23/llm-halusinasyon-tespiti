@@ -1,0 +1,4 @@
+Küme,Soru sayısı,Örnek sayısı,Halüsinasyon oranı
+Eğitim,7000,14000,0.5
+Doğrulama,1500,3000,0.5
+Test,1500,3000,0.5
