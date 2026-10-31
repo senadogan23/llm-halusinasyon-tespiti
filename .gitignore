@@ -1,0 +1,12 @@
+# Veri dosyaları büyük, git'e eklenmez (notebook otomatik indirir)
+data/
+# Eğitilmiş model ağırlıkları (ileride)
+models/
+*.pt
+*.bin
+*.safetensors
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
