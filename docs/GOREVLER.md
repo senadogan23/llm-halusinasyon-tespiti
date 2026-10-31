@@ -1,6 +1,6 @@
 # Görev Dağılımı ve Takvim
 
-> **Önemli kural (yönerge md. 17):** Görevleri bölüşüyoruz ama savunmada **herkes her şeyden** sorumlu. Her hafta sonunda 30 dk birbirimize yaptığımızı anlatıyoruz.
+> Görevler rollere göre dağıtılmıştır; ancak tüm ekip üyeleri projenin her aşamasından sorumludur. Her hafta sonunda kısa bir ekip içi değerlendirme toplantısı yapılır.
 
 ## Roller
 
@@ -46,7 +46,7 @@ Sorumlular ekip toplantısında belirlenecek — isimleri aşağıya yazın.
 |---|---|---|
 | 16 | Gradio demo (cümle bazlı skor gösterimi) | C |
 | 17 | Proje raporu (mazeret haftası) | Ortak |
-| 18 | Sunum + soru-cevap provası (birbirimize soru soruyoruz) | Ortak |
+| 18 | Sunum hazırlığı ve prova | Ortak |
 
 ## Çalışma Kuralları
 
@@ -54,4 +54,4 @@ Sorumlular ekip toplantısında belirlenecek — isimleri aşağıya yazın.
 - Notebook'lar numaralı: `01_`, `02_` … — sırayla çalışır
 - `random_state=42` her yerde aynı (tekrarlanabilirlik)
 - **Test kümesine** model seçerken bakılmaz, sadece en sonda bakılır
-- Yapay zekâdan alınan her kodu çalıştırıp satır satır anlamadan commit etmiyoruz
+- Commit edilen her kod ekip tarafından çalıştırılıp test edilir
